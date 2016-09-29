@@ -1,4 +1,4 @@
-var wdi_38_names = ["Adrianna", "Andrew", "Christian", "Daniel", "David", "Desi", "Emily", "Jenny", "Kate", "Kevin", "Matt", "Michael", "Ramin", "Taylor"];
+var wdi_38_names = ["Kevin", "Andrew", "Aaron", "Paul", "Michael", "Emily", "Viviana", "Darin", "Gaye", "Antonio", "Josh"];
 
 function eachName() {
   index = Math.floor(Math.random() * wdi_38_names.length)
@@ -9,7 +9,7 @@ function eachName() {
 }
 
 function reloadArray() {
-  wdi_38_names = ["Adrianna", "Andrew", "Christian", "Daniel", "David", "Desi", "Emily", "Jenny", "Kate", "Kevin", "Matt", "Michael", "Ramin", "Taylor"];
+  wdi_38_names = ["Kevin", "Andrew", "Aaron", "Paul", "Michael", "Emily", "Viviana", "Darin", "Gaye", "Antonio", "Josh"];
 }
 
 function clickMe() {
